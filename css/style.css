@@ -11,3 +11,12 @@
 body{
     background-color: rgb(248,249,250)!important;
 }
+#learn-more{
+    background-color: rgb(57,61,65);
+}
+#connect-us{
+    background-color: rgb(248,249,250);
+}
+#connect-us h2{
+ color: rgb(107,114,120);
+}
