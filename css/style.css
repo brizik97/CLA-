@@ -17,6 +17,12 @@ body{
 #connect-us{
     background-color: rgb(248,249,250);
 }
-#connect-us h2{
+.grey-color{
  color: rgb(107,114,120);
+}
+.ul-block ul li::marker{
+    content: url('https://api.iconify.design/bi/check-lg.svg');
+}
+footer{
+    background-color: rgb(57,61,65);
 }
